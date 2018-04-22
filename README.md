@@ -1,4 +1,6 @@
-# Sketch2code
+# idea2markup 
+
+From Sketch2code - renaming and I will be making substatial changes. And of course, all be open source. 
 
 ![Preview](https://github.com/ashnkumar/sketch-code/blob/master/header_image.png)
 

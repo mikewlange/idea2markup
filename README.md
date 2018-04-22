@@ -1,6 +1,6 @@
 # idea2markup 
 
-From Sketch2code - renaming and I will be making substatial changes. And of course, all be open source. 
+From Sketch2code - renaming as I will be making substatial changes to the modal and framework. But of course, all remain open source. 
 
 ![Preview](https://github.com/ashnkumar/sketch-code/blob/master/header_image.png)
 

@@ -1,6 +1,8 @@
 # idea2markup 
 
-From Sketch2code (mzbac/sketch2code) - Only renaming as I will be making substatial changes to the Model and framework for a massive increate in vocabulary for generalised use.. But of course, all remain open source. 
+From Sketch2code (mzbac/sketch2code) - Only renaming as I will be making substantial changes to the Model and framework for a massive increase in vocabulary for generalized use and unsuprivised learning for untrained vocabularies - of any kind. 
+
+But of course, all remain open source.
 
 ![Preview](https://github.com/ashnkumar/sketch-code/blob/master/header_image.png)
 
